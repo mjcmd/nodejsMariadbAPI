@@ -1,0 +1,3 @@
+Error:
+Failed to load resource: the server responded with a status of 404 (Not Found)
+sol: The server errors arised due to backend code, when request is not handled by backend, it gives this http error code 404 (not found)
